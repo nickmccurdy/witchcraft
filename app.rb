@@ -1,5 +1,6 @@
 require 'sinatra'
+require 'haml'
 
 get '/' do
-  'Hello world!'
+  haml :index, locals: { title: 'Sinatra' }
 end
