@@ -22,3 +22,6 @@ This will default to port 3000.
     bundle exec rackup
 
 I recommend changing the default port with `-p`.
+
+### Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)

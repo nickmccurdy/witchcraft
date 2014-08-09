@@ -1,0 +1,6 @@
+{
+  "name": "Witchcraft",
+  "description": "A simple application skeleton for Sinatra, inspired by Express.",
+  "website": "https://github.com/nicolasmccurdy/witchcraft",
+  "repository": "https://github.com/nicolasmccurdy/witchcraft"
+}
