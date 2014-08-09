@@ -14,9 +14,11 @@ Running the Server
 ------------------
 
 ### Development
-`ruby app.rb`
+    ruby app.rb
+
 This will default to port 3000.
 
 ### Production
-`bundle exec rackup`
+    bundle exec rackup
+
 I recommend changing the default port with `-p`.
