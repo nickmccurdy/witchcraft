@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.2'
+ruby '~> 2.2'
 
-gem 'sinatra', '~> 1.4.5'
-gem 'haml', '~> 4.0.5'
+gem 'sinatra', '~> 2.0'
+gem 'haml', '~> 5.0'
