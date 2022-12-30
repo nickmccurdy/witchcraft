@@ -1,6 +1,5 @@
 Witchcraft
 ==========
-[![Dependency Status](https://gemnasium.com/nicolasmccurdy/witchcraft.svg)](https://gemnasium.com/nicolasmccurdy/witchcraft)
 
 A simple application skeleton for Sinatra, inspired by Express.
 
